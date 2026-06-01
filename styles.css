@@ -367,7 +367,7 @@ div ul li h4{
   text-align: center;
 }
 .section-title{
-  margin-bottom: 5%;
+  margin-bottom: 8%;
   position: relative;
   text-align: center;
   font-size: 2.5rem;
@@ -387,11 +387,11 @@ div ul li h4{
     margin-top: 3.5%;
     padding: 0 15%;
     position: static;
-    letter-spacing: 2pt;
+    letter-spacing: 1.5pt;
     text-align: center;
-    font-size: 1.3rem;
-    font-weight: 650;
-    color: blue;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: black;
 }
 
 
