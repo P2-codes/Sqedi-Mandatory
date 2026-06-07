@@ -397,10 +397,10 @@ div ul li h4{
 }
 .text{
   font-style: italic;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
 }
 .dunes{
-    font-size: 0.85rem;
+    font-size: 1rem;
 }
 
 footer {
@@ -574,7 +574,13 @@ footer {
     max-height: 550px;
     max-width: 750px;
   }
-
+  .text{
+  font-style: italic;
+  font-size: 1.6rem;
+}
+.dunes{
+    font-size: 1.3rem;
+}
 
   .footer__container {
     grid-template-columns: repeat(5, 1fr);
