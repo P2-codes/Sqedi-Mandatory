@@ -375,6 +375,8 @@ div ul li h4{
   font-size: 3.6rem;
   font-weight: 900;
   color:var(--primary-color);
+  margin-top: 4rem;
+  margin-bottom: 3rem;
 }
 .section-title:hover{
   color: var(--text-dark);
@@ -390,8 +392,9 @@ div ul li h4{
     margin: 0 auto;
 }
 .About p{
-    margin-top: 3.5%;
-    padding: 0 15%;
+    margin-top:3rem;
+    margin-bottom:3rem;
+    padding: 0 10%;
     position: static;
     letter-spacing: 1.8pt;
     text-align: center;
@@ -400,7 +403,7 @@ div ul li h4{
 .text{
   font-style: italic;
   font-size: 1.6rem;
-  font-weight: 900;
+  font-weight: 750;
 }
 .dunes{
     font-size: 1.2rem;
@@ -482,7 +485,7 @@ footer {
         font-size:2.8rem;
     }
     .section-title{
-        font-size:2.8rem;
+        font-size:2.2rem;
     }
 }
 @media (width>540px){
