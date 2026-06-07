@@ -392,11 +392,16 @@ div ul li h4{
     position: static;
     letter-spacing: 1.5pt;
     text-align: center;
-    font-size: 1.1rem;
     font-weight: 600;
     color: black;
 }
-
+.text{
+  font-style: italic;
+  font-size: 1.1rem;
+}
+.dunes{
+    font-size: 0.85rem;
+}
 
 footer {
   background-color: var(--text-dark);
