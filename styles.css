@@ -302,30 +302,33 @@ header {
     justify-content: center;
 }
 .sale-image{
-    height: 350px;
-    width: 300px;
+    height: 21.875rem;
+    width: 18.75rem;
     border-radius: 25px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 10px 25px rgba(70, 69, 69, 0.2);
 }
 .sale-image:hover {
-  transform: translateY(-10px);
-  box-shadow: 0 10px 20px rgba(198, 191, 191, 0.2);
+  transform: translateY(-12.5px);
+  box-shadow: 5px 5px 30px rgba(29, 29, 29, 0.874);
 }
 
 .btn2{
     background-color: black;
     color:white;
-    padding: 5px 10px;
+    padding: 0.5rem 1rem;
     border-radius: 5px;
     cursor: pointer;
     margin: 10px 0 0 0;
-    
+    font-size: 1rem;
+    font-weight: 650;
 }
 .btn2:hover{
     background-color: var(--primary-color);
     border-color: var(--primary-color);
     scale: 1.25;
     transition: all 0.3s ease;
+    color: black;
 }
 .wrap{
     margin: 25px 50px 25px 50px;
